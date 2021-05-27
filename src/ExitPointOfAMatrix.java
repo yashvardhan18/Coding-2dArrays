@@ -53,5 +53,5 @@ public class ExitPointOfAMatrix {
         System.out.println(i);
         System.out.println(j);
     }
-
+ 
 }
