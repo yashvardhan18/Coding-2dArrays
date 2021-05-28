@@ -20,7 +20,7 @@ public class StateOfWakanda2 {
                 System.out.println(arr[i][j]);
             }
         }
-    }
+     }
 
 
 
