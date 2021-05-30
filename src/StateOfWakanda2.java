@@ -15,8 +15,8 @@ public class StateOfWakanda2 {
                 arr[i][j]=scn.nextInt();
             }
         }
-        for(int g=0;g<arr.length;g++){
-            for(int i=0, j=g;j< arr.length;i++,j++){
+        for(int g=0;g<arr.length;g++) {
+            for (int i = 0, j = g; j < arr.length; i++, j++) {
                 System.out.println(arr[i][j]);
             }
         }
