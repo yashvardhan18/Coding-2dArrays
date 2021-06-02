@@ -33,7 +33,7 @@ public class SadlePrice {
                 return;
             }
         }
-        System.out.println("Invalid input");
+            System.out.println("Invalid input");
     }
 
 }
