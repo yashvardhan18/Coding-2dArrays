@@ -31,7 +31,7 @@ public class SearchInASorted2dArray {
             }
 
         }
-        System.out.println("Not Found");
+            System.out.println("Not Found");
     }
 
 }
