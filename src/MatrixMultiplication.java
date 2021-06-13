@@ -5,7 +5,7 @@ import java.util.*;
 public class MatrixMultiplication{
 
     public static void main(String[] args) throws Exception {
-        // write your code here
+        
         Scanner scn= new Scanner(System.in);
         int r1=scn.nextInt();
         int c1=scn.nextInt();
