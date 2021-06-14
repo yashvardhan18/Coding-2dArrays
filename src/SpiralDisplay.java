@@ -9,6 +9,7 @@ public class SpiralDisplay {
         int n=scn.nextInt();
         int m=scn.nextInt();
         int [][] ar=new int[n][m];
+       
         for(int i=0;i<ar.length;i++){
             for(int j=0;j<ar[0].length;j++){
                 ar[i][j]=scn.nextInt();
